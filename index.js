@@ -7,7 +7,3 @@ function happyHolidays(string) {
 function happyHolidays("Happy holidays, ${name}!) {
   console.log(`Happy holidays, ${name}!`)
 }
-
-function say(greeting, firstName) {
-  console.log(`${greeting}, ${firstName}!`)
-}
